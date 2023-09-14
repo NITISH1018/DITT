@@ -1,0 +1,36 @@
+
+
+.header{
+  background-color: black;
+  height: 80px;
+  width: auto;
+  border-radius: 20px;
+  color: white;
+}
+.bg-2{
+  background-color: rgb(38, 37, 37);
+  color: white;
+  padding: 17px;
+  border-radius: 20px;
+}
+.rightsidebar{
+  background-color: rgb(244, 160, 76);
+  height: 1830px;
+  width:200px;
+  border-radius: 20px;
+  float: right;
+  color: black;
+}
+.transport{
+  text-align: center;
+  color: red;
+}
+p {
+  border: 2px solid black;
+  outline: #4CAF50 solid 10px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+}
+  
+
